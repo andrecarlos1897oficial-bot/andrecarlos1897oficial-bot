@@ -11,5 +11,4 @@ Estudante de Desenvolvimento Full Stack e entusiasta de tecnologia, focado em cr
 
 ---
 
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrecarlos1897oficial-bot&show_icons=true&theme=tokyonight)
+
